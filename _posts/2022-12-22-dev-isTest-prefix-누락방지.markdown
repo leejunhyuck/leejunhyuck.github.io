@@ -3,7 +3,7 @@ layout: post
 title: "[트러블 슈팅] is Prefix로 변수 선언시 직렬화과정에서 누락 해결방안"  
 subtitle: "변수 직렬화 에러"  
 categories: dev
-tags: troubleshooting   
+tags: troubleshooting 직렬화
 comments: true  
 
 ---
