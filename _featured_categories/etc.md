@@ -6,5 +6,5 @@ menu: true
 submenu: false
 order: 4
 description: >
-  미정.
+  기타 내용들
 ---

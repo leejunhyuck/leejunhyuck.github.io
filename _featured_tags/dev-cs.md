@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: PaperToMath
-slug: papertomath
+title: CS
+slug: cs
 category: dev
 menu: false
-order: 3
+order: 4
 ---

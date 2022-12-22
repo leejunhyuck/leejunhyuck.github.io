@@ -1,7 +1,7 @@
 ---
 layout: tag-blog
-title: ML
-slug: ml
+title: TroubleShooting
+slug: troubleshooting
 category: dev
 menu: false
 order: 1
