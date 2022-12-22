@@ -1,0 +1,10 @@
+---
+layout: list
+title: Favorites
+slug: favorites
+menu: true
+submenu: false
+order: 7
+description: >
+  취미 등 기록 예정.
+---
