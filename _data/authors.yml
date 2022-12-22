@@ -1,7 +1,7 @@
 # The primary author of this blog.
 # Must be the same as `author` in `_config.yml`.
 # Change `qwtel` to your shortname (used in the front matter to set a page's author, e.g. `author: qwtel`).
-Leejunhyuck:
+leejunhyuck:
   name:              min
   email:             hg00521@naver.com
 
@@ -46,7 +46,7 @@ Leejunhyuck:
     # pinterest:       <username>
     # foursquare:      <number>
     # yelp:            <string>
-    github:          Leejunhyuck
+    github:          leejunhyuck
     # stackoverflow:   <number/username>
     # npm:             <username>
     # hackernews:      <username>
@@ -58,7 +58,7 @@ Leejunhyuck:
     # stumbleupon:     <username>
     # paypal:          <username>
     email:           mailto:hg00521@naver.com
-    rss:             https://Leejunhyuck.github.io/feed.xml
+    rss:             https://leejunhyuck.github.io/feed.xml
 
 # Another author
 mdo:

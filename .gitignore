@@ -40,7 +40,7 @@ validation-report.json
 
 # Folders to ignore
 _posts_ing
-Leejunhyuck.github.io
+leejunhyuck.github.io
 node_modules
 .sass-cache
 .jekyll-metadata

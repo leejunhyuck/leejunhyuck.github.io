@@ -2,11 +2,11 @@
 #  User configuration
 # -----------------------------------------------------------------------------
 
-title:               Leejunhyuck
+title:               leejunhyuck
 
 # The unique resource location of your page.
 # Set to `https://<username>.github.io` when hosting on GitHub Pages
-url:                 https://Leejunhyuck.github.io
+url:                 https://leejunhyuck.github.io
 
 # Set to '' when hosting a blog on GitHub Pages, ie on `//<username>.github.io`
 # Set to '/<reponame>' when using the `gh-pages` branch of a repository
@@ -48,10 +48,10 @@ google_analytics:    UA-137374202-1
 
 # Setting a disqus shortname will enable the comment section on pages with `comments: true` in the front matter
 disqus: True
-disqus_shortname:    Leejunhyuck
+disqus_shortname:    leejunhyuck
 
 # This text will appear in the footer of every page. Markdown enabled.
-copyright:           '&copy; 2022.12. by Leejunhyuck'
+copyright:           '&copy; 2022.12. by leejunhyuck'
 
 # Format of the permalinks
 permalink:           pretty
