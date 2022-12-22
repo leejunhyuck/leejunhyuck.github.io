@@ -2,11 +2,11 @@
 #  User configuration
 # -----------------------------------------------------------------------------
 
-title:               Leejynhyuck
+title:               Leejunhyuck
 
 # The unique resource location of your page.
 # Set to `https://<username>.github.io` when hosting on GitHub Pages
-url:                 https://Leejynhyuck.github.io
+url:                 https://Leejunhyuck.github.io
 
 # Set to '' when hosting a blog on GitHub Pages, ie on `//<username>.github.io`
 # Set to '/<reponame>' when using the `gh-pages` branch of a repository
@@ -18,7 +18,7 @@ tagline:             "All roads lead to data."
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
 description:         >
-  Data science enthusiast and addict :)
+  Backend Developer
 
 # This should be the same author as first entry in `_data/authors.yml`
 author:
@@ -51,7 +51,7 @@ disqus: True
 disqus_shortname:    Leejunhyuck
 
 # This text will appear in the footer of every page. Markdown enabled.
-copyright:           '&copy; 2022.12. by Leejynhyuck'
+copyright:           '&copy; 2022.12. by Leejunhyuck'
 
 # Format of the permalinks
 permalink:           pretty

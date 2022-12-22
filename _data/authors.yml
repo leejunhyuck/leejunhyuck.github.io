@@ -8,7 +8,7 @@ Leejunhyuck:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Data science enthusiast and addict :)
+    Backend Developer
 
   # This photo will be used in the about section
   picture:
@@ -58,7 +58,7 @@ Leejunhyuck:
     # stumbleupon:     <username>
     # paypal:          <username>
     email:           mailto:hg00521@naver.com
-    rss:             https://Leejynhyuck.github.io/feed.xml
+    rss:             https://Leejunhyuck.github.io/feed.xml
 
 # Another author
 mdo:

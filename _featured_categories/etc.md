@@ -1,7 +1,7 @@
 ---
 layout: list
-title: Startup
-slug: startup
+title: Etc
+slug: etc
 menu: true
 submenu: false
 order: 4
