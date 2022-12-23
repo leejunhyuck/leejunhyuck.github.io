@@ -1,7 +1,7 @@
 ---  
 layout: post  
-title: "[DB] stored procedure에 대한 정리"  
-subtitle: "stored procedure"  
+title: "[DB] Stored Procedure에 대한 정리"  
+subtitle: "Stored Procedure"  
 categories: dev
 tags: database db stored procedure sp
 comments: true  
@@ -9,7 +9,7 @@ comments: true
 ---
 > Stored Procedure `코드로 옮기는 고도화` 과정에서 발생한 의문을 정리한 글입니다.
 
-## stored procedure에 대한 정리
+## Stored Procedure에 대한 정리
 
 __적절한 상황에서 적절한 기술을 쓰는 것은 찬성이다 하지만 적절한 이유 없이 쓰는 것은 잘못되었다고 생각합니다.__
 
