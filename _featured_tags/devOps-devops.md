@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
 title: DevOps
-slug: devOps
-category: devOps
+slug: devops
+category: devops
 menu: false
 order: 1
 ---
