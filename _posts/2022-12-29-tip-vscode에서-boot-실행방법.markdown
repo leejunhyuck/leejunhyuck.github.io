@@ -3,7 +3,7 @@ layout: post
 title: "[TIP] VS CODE (비쥬얼 스튜디오 코드에서) Spring boot 실행 (RUN)"  
 subtitle: "spring boot 실행 방법"  
 categories: tip
-tags: troubleshooting 직렬화
+tags: tip maven gradle
 comments: true  
 
 ---
