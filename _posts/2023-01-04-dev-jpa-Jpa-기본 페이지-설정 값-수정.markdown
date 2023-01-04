@@ -1,10 +1,10 @@
 ---  
 layout: post  
-title: "[TIP] JPA 기본 페이지 설정 값 수정"  
+title: "[JPA] JPA 기본 페이지 설정 값 수정"  
 subtitle: "기본 페이지 설정 값 수정"  
-categories: tip
+categories: dev
 tags: jpa spring page
-comments: true  
+comments: true
 
 ---
 > Jpa 기본 `페이지 설정 값` 수정하는 방법을 기록한 글 입니다.
