@@ -21,7 +21,7 @@ Spring에서는 어노테이션으로 비슷한 기능을 제공한다.
 
 응답결과를 먼저 주고 후 비동기식으로 처리가 가능하다.
 
-1. method 레벨별 사용하기위한 Config 정의
+* method 레벨별 사용하기위한 Config 정의
 
 ```kotlin
 @configuration
@@ -38,8 +38,7 @@ fun methName(){
 }
 ```
 
-
-2. application 레벨별 사용하기위한 Config 정의
+* application 레벨별 사용하기위한 Config 정의
 
 ```kotlin
 @configuration
