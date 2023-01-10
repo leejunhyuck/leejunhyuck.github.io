@@ -1,6 +1,6 @@
 ---  
 layout: post  
-title: "[SPRING] Pageable을 파라미터 Sort(정렬)정보 초기화 방법"  
+title: "[Spring] Pageable을 파라미터 Sort(정렬)정보 초기화 방법"  
 subtitle: "Pageable을 파라미터 Sort(정렬)정보 초기화"  
 categories: dev
 tags: spring pageable

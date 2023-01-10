@@ -1,6 +1,6 @@
 ---  
 layout: post  
-title: "[DEVOPS] 다중 서버에 대한 세션 유지 방법"  
+title: "[Devops] 다중 서버에 대한 세션 유지 방법"  
 subtitle: "Session Maintenance"  
 categories: devops
 tags: devops db stored procedure sp

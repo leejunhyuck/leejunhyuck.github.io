@@ -1,6 +1,6 @@
 ---  
 layout: post  
-title: "[JPA] JPA 기본 페이지 설정 값 수정"  
+title: "[Jpa] JPA 기본 페이지 설정 값 수정"  
 subtitle: "기본 페이지 설정 값 수정"  
 categories: dev
 tags: jpa spring page

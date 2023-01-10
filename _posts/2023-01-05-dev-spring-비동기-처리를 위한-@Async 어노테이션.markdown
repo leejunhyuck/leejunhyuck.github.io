@@ -1,6 +1,6 @@
 ---  
 layout: post  
-title: "[SPRING] 비동기 처리를 위한 @Async 어노테이션"  
+title: "[Spring] 비동기 처리를 위한 @Async 어노테이션"  
 subtitle: "비동기 처리를 위한 어노테이션 처리"  
 categories: dev
 tags: spring async

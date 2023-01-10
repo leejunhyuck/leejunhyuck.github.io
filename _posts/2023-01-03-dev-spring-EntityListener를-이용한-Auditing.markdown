@@ -1,6 +1,6 @@
 ---  
 layout: post  
-title: "[SPRING] EntityListener를 이용한 Auditing"  
+title: "[Spring] EntityListener를 이용한 Auditing"  
 subtitle: "EntityListener"  
 categories: dev
 tags: spring event auditing
