@@ -2,7 +2,7 @@
 layout: list
 title: Favorites
 slug: favorites
-menu: true
+menu: false
 submenu: false
 order: 7
 description: >
