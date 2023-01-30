@@ -22,7 +22,7 @@ description:         >
 
 # This should be the same author as first entry in `_data/authors.yml`
 author:
-  name:              min
+  name:              jun
   email:             hg00521@naver.com
 
 # Fallback image and color
